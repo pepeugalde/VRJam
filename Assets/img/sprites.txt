@@ -1,0 +1,37 @@
+{"frames": {
+	"Subwoofer_by_roi13_000.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":1300,"w":650,"h":650},
+		"spriteSourceSize": {"x":0,"y":0,"w":650,"h":650},
+		"sourceSize": {"w":650,"h":650}
+	},
+	"Subwoofer_by_roi13_001.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":650,"y":0,"w":650,"h":650},
+		"spriteSourceSize": {"x":0,"y":0,"w":650,"h":650},
+		"sourceSize": {"w":650,"h":650}
+	},
+	"Subwoofer_by_roi13_002.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":650,"y":650,"w":650,"h":650},
+		"spriteSourceSize": {"x":0,"y":0,"w":650,"h":650},
+		"sourceSize": {"w":650,"h":650}
+	},
+	"Subwoofer_by_roi13_003.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":650,"w":650,"h":650},
+		"spriteSourceSize": {"x":0,"y":0,"w":650,"h":650},
+		"sourceSize": {"w":650,"h":650}
+	},
+	"Subwoofer_by_roi13_004.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":650,"h":650},
+		"spriteSourceSize": {"x":0,"y":0,"w":650,"h":650},
+		"sourceSize": {"w":650,"h":650}
+	},
+}
+"meta": {
+	"app": "ShoeBox",
+	"size": {"w":1300,"h":1950}
+}
+}
